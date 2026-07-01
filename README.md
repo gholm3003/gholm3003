@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+mkdir my-project
+cd my-project
+
+git init
+
+echo "# My Project" > README.md
+
+git add .
+git commit -m "first commit"
+
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPO.git
+
+git push -u origin main
