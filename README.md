@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 mkdir my-project
 cd my-project
 
-git init
+
 
 echo "# My Project" > README.md
 
