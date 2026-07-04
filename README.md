@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 mkdir my-project
 cd my-project
 
-
+https://askjune.ai/app/chat
 
 echo "# My Project" > README.md
 
