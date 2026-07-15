@@ -1,7 +1,7 @@
 
 
 <!--
-_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
