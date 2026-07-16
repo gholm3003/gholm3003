@@ -1,7 +1,7 @@
 
 
 <!--
-e its `README.md` (this file) appears on your GitHub profile.
+ars on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
