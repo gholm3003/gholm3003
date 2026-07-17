@@ -1,7 +1,7 @@
 
 
 <!--
-ars on your GitHub profile.
+ your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
