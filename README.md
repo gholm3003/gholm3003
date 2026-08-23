@@ -13,7 +13,7 @@
 - nouns: ...
 - ⚡ Fun fat: ...
 -->
-mkdir my-project
+dir my-project
 cd my-project
 
 ttps://askjune.ai/app/chat
