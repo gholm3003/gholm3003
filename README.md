@@ -14,7 +14,7 @@
 - ⚡ Fun fat: ...
 
 dir my-project
- my-project
+ project
 
 ttps://askjune.ai/app/chat
 
