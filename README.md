@@ -14,7 +14,7 @@
 -un fat: ...
 
 dir my-project
-ect
+
 
 ttps://askjune.ai/app/chat
 
