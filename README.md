@@ -13,7 +13,7 @@
 - nouns: ...
 n fat: ...
 
-ir my-project
+ my-project
 
 
 ttps://askjune.ai/app/chat
