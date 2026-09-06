@@ -12,7 +12,7 @@
 -
 - nouns: ...
 n fat: ...
--roject
+oject
 
 
 ttps://askjune.ai/app/chat
