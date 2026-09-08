@@ -19,7 +19,7 @@ ttps://askjune.ai/app/chat
 
 echo "# My Project" > README.md
 
-it add .
+ add .
 git commit -m "first commit"
 
 git branch -M main
