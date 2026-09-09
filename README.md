@@ -15,7 +15,7 @@ n fat: ...
 ect
 
 
-ttps://askjune.ai/app/chat
+tps://askjune.ai/app/chat
 
 echo "# My Project" > README.md
 
