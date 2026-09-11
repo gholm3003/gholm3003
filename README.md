@@ -12,7 +12,7 @@
 -
 - nouns: ...
 n fat: ...
-ect
+ct
 
 
 s://askjune.ai/app/chat
