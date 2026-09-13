@@ -17,7 +17,7 @@ t
 
 s://askjune.ai/app/chat
 
-echo "# My Project" > README.md
+ho "# My Project" > README.md
 
  add .
 git commit -m "first commit"
