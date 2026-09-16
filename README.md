@@ -15,7 +15,7 @@ n fat: ...
 t
 
 
-s://askjune.ai/app/chat
+s://askjune.ai/app/ch
 
 ho "# My Project" > READ
 
