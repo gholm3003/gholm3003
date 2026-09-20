@@ -17,7 +17,7 @@ t
 
 s://askjune.ai/app/ch
 
- "# My Project" > READ
+y Project" > READ
 
  add .
 t commit -m "first commit"
