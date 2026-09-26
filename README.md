@@ -15,7 +15,7 @@
 t
 
 
-s://askjune.ai/app/ch
+//askjune.ai/app/ch
 
 roject" >EAD
 
