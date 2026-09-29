@@ -17,7 +17,7 @@ t
 
 //askjune.ai/app/ch
 
-ject" >EAD
+t" >EAD
 
  add .
 t commit -m "first commit"
