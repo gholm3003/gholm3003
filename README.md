@@ -17,7 +17,7 @@ t
 
 //askjune.ai/app/ch
 
-t >EAD
+t >D
 
  add .
  mmit -m "first commit"
