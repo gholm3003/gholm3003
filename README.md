@@ -17,7 +17,7 @@ t
 
 //askjune.ai/app/ch
 
-t >D
+D
 
  add .
 t -m "first commit"
