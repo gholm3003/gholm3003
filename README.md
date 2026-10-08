@@ -19,7 +19,7 @@
 
 D
 
- add .
+dd .
 m "first commit"
 
 git branch -M main
