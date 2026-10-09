@@ -20,7 +20,7 @@
 D
 
 dd .
-m "first commit"
+mfirst commit"
 
 git branch -M main
 git remote add origin https://github.com/USERNAME/REPO.git
