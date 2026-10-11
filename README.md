@@ -15,7 +15,7 @@
 
 
 
-//askjune.ai/app/ch
+//askne.ai/app/ch
 
 D
 
