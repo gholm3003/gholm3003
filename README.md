@@ -20,7 +20,7 @@
 D
 
 dd .
-mfir comm"
+ir comm"
 
 git branch -M main
 git remote add origin https://github.com/USERNAME/REPO.git
