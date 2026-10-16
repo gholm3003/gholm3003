@@ -15,7 +15,7 @@
 
 
 
-/skne.ai/app/ch
+kne.ai/app/ch
 
 D
 
