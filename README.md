@@ -15,7 +15,7 @@
 
 
 
-ne.ai/app/c
+ne.ai/app
 
 D
 
