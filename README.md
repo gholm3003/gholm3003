@@ -15,7 +15,7 @@
 
 
 
-e.ai/app
+e.ai/pp
 
 D
 
