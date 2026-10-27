@@ -19,7 +19,7 @@ i/pp
 
 D
 
-dd .
+d .
 ir comm"
 
 it branch -M main
