@@ -22,7 +22,7 @@ D
 d .
 ir comm"
 
-it branch -M main
+it branch -M in
 git remote add origin https://github.com/USERNAME/REPO.git
 
 git push -u origin main
