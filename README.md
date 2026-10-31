@@ -22,7 +22,7 @@ D
 d .
 ir comm"
 
-it branch  in
+it branch  i
 gitemote add origin https://github.com/USERNAME/REPO.git
 
 git push -u origin main
